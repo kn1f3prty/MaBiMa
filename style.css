@@ -1,4 +1,11 @@
- body{
-    background-color: black;
-  }
-  h1 {color: white;}
+:root {
+  --laço: #fbd5e5;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
