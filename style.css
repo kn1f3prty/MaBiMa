@@ -1,5 +1,6 @@
 :root {
   --laço: #fbd5e5;
+  --perola: #fdeaf2;
 }
 
 body {
@@ -7,5 +8,5 @@ body {
 }
 
 h1 {
-  color: white;
+  color: var(--perola);
 }
