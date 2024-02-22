@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: var(--perola);
+  background-color: var(--laço);
 }
 
 h1 {
-  color: var(--laço);
+  color: var(--perola);
 }
