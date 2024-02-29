@@ -1,17 +1,20 @@
 :root {
   --laço: #fbd5e5;
   --perola: #fdeaf2;
-  --preto:white;
 }
 
 body {
   background-color: var(--laço);
-  font-family: "Allura", cursive;
-  font-weight: 400;
-  font-style: normal;
-  color: var(--preto);
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 }
 
+h1 {
+  color: var(--perola);
+}
 
 .icon {
   width: 20%;
