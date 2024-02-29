@@ -1,17 +1,17 @@
 :root {
   --laço: #fbd5e5;
-  --perola: #fdeaf2;
+  --perola:#FFF4F2;
 }
 
 body {
-  background-color: var(--laço);
+  background-color: var(--perola);
     font-family: "Taviraj", serif;
     font-weight: 400;
     font-style: normal;
   }
 
 h1 {
-  color: var(--perola);
+  color: var(--laço);
 }
 
 .icon {
