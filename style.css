@@ -5,6 +5,9 @@
 
 body {
   background-color: var(--laço);
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
@@ -13,11 +16,5 @@ h1 {
 
 .icon {
   width: 20%;
-}
-
-.allura-regular {
-  font-family: "Allura", cursive;
-  font-weight: 400;
-  font-style: normal;
 }
 
