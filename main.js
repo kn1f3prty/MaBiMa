@@ -1,1 +1,1 @@
-alert('Oiee');
+const list = querySelectorAll("button");
