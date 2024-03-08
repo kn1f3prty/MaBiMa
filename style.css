@@ -1,6 +1,7 @@
 :root {
   --laço: #fbd5e5;
   --perola:#FFF4F2;
+  --diamante: #f96995;
 }
 
 body {
@@ -18,3 +19,6 @@ h1 {
   width: 20%;
 }
 
+span{
+  color: var(--diamante)
+}
