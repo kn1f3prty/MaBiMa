@@ -1,5 +1,5 @@
-var nome_Usuario = '';
-var texto = document.querySelector('span');
+var nome_Usuario = ''; // configurando o noe de uuário
+var texto = document.querySelector('span'); //
 
 while(nome_Usuario == '' ){ // || nome_Usuario == null
 nome_Usuario = prompt('Digite seu apelido aqui! :)');
