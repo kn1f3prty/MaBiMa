@@ -1,2 +1,1 @@
-const list = querySelectorAll("button");
-prompt('Digite seu apelido aqui! :)');
+var nome_Usuario = prompt('Digite seu apelido aqui! :)');
