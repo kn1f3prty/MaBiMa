@@ -10,5 +10,3 @@ texto.textContent = 'usuário';
 }else{
 texto.textContent = nome_Usuario;
 }
-
-
