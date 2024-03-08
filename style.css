@@ -2,6 +2,7 @@
   --laço: #fbd5e5;
   --perola:#FFF4F2;
   --diamante: #f96995;
+  --ballet: #f85084;
 }
 
 body {
@@ -12,7 +13,7 @@ body {
   }
 
 h1 {
-  color: var(--laço);
+  color: var(--ballet);
 }
 
 .icon {
