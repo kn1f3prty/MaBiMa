@@ -6,6 +6,8 @@
   --wine: #4a0218;
 }
 
+/* adicionar -- + nome da variavel + codigo da cor, para que seja mais facil puxar a variavel*/
+
 body {
   background-color: var(--perola);
     font-family: "Taviraj", serif;
