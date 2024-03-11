@@ -1,4 +1,5 @@
-let numeroSecreto = 13; 
+let numeroSecreto = Math.random() * 13; 
+console.log(numeroSecreto);
 
 let chute = '';
 
