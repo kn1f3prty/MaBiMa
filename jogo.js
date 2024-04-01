@@ -1,4 +1,4 @@
-let numeroSecreto = Math.floor( Math.random() * 1);
+let numeroSecreto = Math.floor( Math.random() * 13);
 console.log(numeroSecreto);
 
 let chute = '';
