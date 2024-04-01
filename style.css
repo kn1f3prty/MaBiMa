@@ -26,3 +26,7 @@ h1 {
 span{
   color: var(--ballet)
 }
+
+.contagem-regressiva{
+  text-align: center;
+}
