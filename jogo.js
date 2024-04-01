@@ -10,7 +10,7 @@ while(chute == '' || chute== null){
 /* prompt é o comando usado para enviar uma mensagem */
 
 if(numeroSecreto == chute){
-    alert ('Parabéns! Você acertou:');
+    alert ('Parabéns! Você acertou:)');
 } else{
     alert('Que triste! Você errou:(');
 }
