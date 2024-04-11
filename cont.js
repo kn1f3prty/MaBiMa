@@ -3,8 +3,8 @@ console.log(botoes.length);
 
 let i = 0;
 
-while(i<botoes.length){
-i = i+1
+for(let i = 0; i<botoes.length; i++){
+
 console.log(i);
 
 }
