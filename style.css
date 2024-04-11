@@ -40,3 +40,7 @@ span{
   border: 0;
   border-bottom: 3px solid #fbd5e5;
 }
+
+.aba-conteudo{
+  display: none;
+}
