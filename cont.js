@@ -1,5 +1,6 @@
 const botoes = document.querySelectorAll('.objetivos');
-console.log(botoes.length);
+const textos = document.querySelectorAll('.aba-conteudo');
+
 
 let i = 0;
 
@@ -8,7 +9,8 @@ console.log(i);
 botoes[i].onclick = function(){
     for (let j = 0; j<botoes.length; j++){
     botoes[j].classList.remove('ativo');
+    textos[j].classList.remove('ativa');
     }
-    botoes[i].classList.add('ativo');
+    botoes[i].classList.add('ativa');
 }
 }
