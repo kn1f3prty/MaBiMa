@@ -11,6 +11,7 @@ botoes[i].onclick = function(){
     botoes[j].classList.remove('ativo');
     textos[j].classList.remove('ativa');
     }
-    botoes[i].classList.add('ativa');
+    botoes[i].classList.add('ativo');
+    textos[i].classList.add('ativa');
 }
 }
