@@ -44,12 +44,12 @@ span{
 
 .objetivos{
   padding: 20px;
-  border: 0;
+  border: 2px solid #dfc7da;
 }
 
 .ativo{
   border: 0;
-  border-bottom: 3px solid #fbd5e5;
+  border-bottom: 3px solid #e5abda;
 }
 
 .aba-conteudo{
