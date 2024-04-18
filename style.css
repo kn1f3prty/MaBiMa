@@ -32,6 +32,10 @@ span{
   justify-content: space-around;
 }
 
+.meio{
+  text-align: center;
+}
+
 .contagem-regressiva{
   text-align: center;
   margin-top: 50px;
