@@ -13,5 +13,8 @@ botoes[i].onclick = function(){
     }
     botoes[i].classList.add('ativo');
     textos[i].classList.add('ativa');
+    }
 }
-}
+const contadores = document.querySelectorAll('.contador');
+
+contadores[0].textContent = "oi, tudo bem?";
