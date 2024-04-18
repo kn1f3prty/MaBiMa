@@ -49,6 +49,7 @@ span{
 
 .ativo{
   border: 0;
+  border: 2px solid #dfc7da;
   border-bottom: 3px solid #e5abda;
 }
 
