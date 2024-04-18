@@ -19,9 +19,9 @@ const contadores = document.querySelectorAll('.contador');
 let tempoAtual = new Date ();
 let tempoObjetivo1 = new Date ('2024-04-19T00:00:00');
 let tempoFinal = tempoFinal - tempoAtual;
-let segundos =  tempoFinal/1000;
-let minutos = segundos/60;
-let horas = minutos/ 60;
-let dias = horas/24;
+let segundos =  Matht.floor(tempoFinal/1000);
+let minutos = Matht.floor(segundos/60);
+let horas = Matht.floor(minutos/ 60);
+let dias = Matht.floor(horas/24);
 
 contadores[0].textContent = dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos ";
