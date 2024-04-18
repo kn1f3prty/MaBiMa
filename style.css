@@ -27,7 +27,7 @@ span{
   color: var(--ballet)
 }
 
-.meninas{
+.espacamento{
   display: flex;
   justify-content: space-around;
 }
